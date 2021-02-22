@@ -14,6 +14,9 @@ Currently the model is incomplete pending receiving actual parts and test fittin
 ## TODO
 
 - [ ] Complete stand/legs for ring gear. Possibly fits on some bits of 2020?
+- [ ] Complete housing/mount for motor
+- [ ] Figure out how to mount magnetic encoder
+- [ ] Test if magnet can be mounted directly to motor or not
 - [ ] Print all the parts in PLA
 - [ ] Receive BLDC motor
 - [ ] Receive ODrive
