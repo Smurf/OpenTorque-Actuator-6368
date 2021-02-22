@@ -20,6 +20,7 @@ Currently the model is incomplete pending receiving actual parts and test fittin
 - [ ] Print all the parts in PLA
 - [ ] Receive BLDC motor
 - [ ] Receive ODrive
+- [ ] Receive 8008 Bearing
 - [ ] Receive Rest of parts (screws, inserts, etc)
 - [ ] Verify Fit
 - [ ] Repeat
